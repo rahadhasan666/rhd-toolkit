@@ -11,6 +11,9 @@
 
 <br>
 <br>
+<!-- 🔥 TOOL IMAGE ADDED HERE -->
+<img src="https://raw.githubusercontent.com/rahadhasan666/rhd-toolkit/main/Gemini_Generated_Image_bgo72rbgo72rbgo7.png" width="500px" />
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=RHD+Toolkit+v2.0;APK+Modification+Suite;Android+Security+Tool;Professional+APK+Handler" alt="Typing SVG" />
 
