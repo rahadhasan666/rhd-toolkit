@@ -53,12 +53,12 @@ fi
 
 # Clone repository
 echo -e "\n${Y}[*] Cloning RHD Toolkit...${W}\n"
-git clone https://github.com/rahadhasan666/sngrv2.git
+git clone https://github.com/rahadhasan666/rhd-toolkit.git
 
-cd sngrv2
+cd rhd-toolkit
 
 # Make executable
-chmod +x apksigner.sh
+chmod +x rhd-toolkit.sh
 
 # Create alias
 echo -e "\n${Y}[*] Setting up alias...${W}"
@@ -74,5 +74,5 @@ echo "╚═══════════════════════�
 echo -e "${W}\n"
 
 echo -e "${C}To start RHD Toolkit:${W}"
-echo -e "  ${Y}cd sngr && ./apksigner.sh${W}"
+echo -e "  ${Y}cd rhd-toolkit && ./rhd-toolkit.sh${W}"
 
